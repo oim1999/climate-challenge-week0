@@ -55,3 +55,11 @@ The dashboard has four tabs:
 | 📊 Vulnerability ranking | Composite ranking table + COP32 observations |
 
 
+---
+
+## Deployment
+
+The app is deployed on Streamlit Community Cloud:
+🔗 **[https://climate-challenge-week0-zq2jdgrpy9bdwkbotrfpdl.streamlit.app/](https://climate-challenge-week0-zq2jdgrpy9bdwkbotrfpdl.streamlit.app/)**
+
+---
